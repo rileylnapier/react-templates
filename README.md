@@ -6,6 +6,8 @@
 
 Lightweight templates for [React](http://facebook.github.io/react/index.html).
 
+** This library is not compatible with react 15.  React 15 removed "react/addons".  Please use react 14 :)
+
 * No runtime libraries. No magic. Simply precompile your way to clear React code.
 * Easy syntax that's similar to HTML, supported by most IDEs.
 * Clear separation of presentation and logic - almost zero HTML in component files.
